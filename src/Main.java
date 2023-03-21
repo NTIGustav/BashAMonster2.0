@@ -6,7 +6,7 @@ public class Main {
     {
         new Window();
         new HealthBars();
-        
+
 
     }
 }
